@@ -1,0 +1,4 @@
+[submodule "Packages/GO"]
+	path = Packages/GO
+	url = https://github.com/eframework-org/VSC.GO.git
+	branch = master
