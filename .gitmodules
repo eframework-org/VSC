@@ -2,3 +2,11 @@
 	path = Packages/GO
 	url = https://github.com/eframework-org/VSC.GO.git
 	branch = master
+[submodule "Packages/TEA"]
+	path = Packages/TEA
+	url = https://github.com/eframework-org/VSC.TEA.git
+	branch = master
+[submodule "Packages/U3D"]
+	path = Packages/U3D
+	url = https://github.com/eframework-org/VSC.U3D.git
+	branch = master
